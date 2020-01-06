@@ -1,5 +1,7 @@
 [AutoProxy]
 /^https?:\/\/(?!dl\.)[^\/]+google[^\.]*\.(.*)/
+||gist.github.com
+||google-analytics.com
 ||goo.gl
 ||gstatic.com
 ||ggpht.com
